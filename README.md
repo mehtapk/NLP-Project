@@ -8,3 +8,9 @@
 * ChatterBox: for three situation ; positive,negative,neutral
 * SentiStrength:for assigning score to negative and positive phrases in the text
 * [TwitterAPI](https://twitter.com/twitterapi): for pulling data on [Twitter](https://twitter.com)
+
+###Phases
+
+* Create an application by using [Twitter Developer Application](https://apps.twitter.com/)
+* Pull tweets (I used my last tweets for now)
+* Clean Data
